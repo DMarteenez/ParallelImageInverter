@@ -46,7 +46,7 @@ namespace ParallelImageInverter
             gpu?.Dispose();
         }
 
-        public static void DoShit()
+        public static void DoSomething()
         {
             Console.WriteLine("ooo");
         }
